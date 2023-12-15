@@ -1,0 +1,13 @@
+.game {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .game-board {
+    background-color: #AEB6BF;
+    border: 1px solid #000000;
+    padding: 1rem;
+  }

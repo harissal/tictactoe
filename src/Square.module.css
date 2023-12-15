@@ -1,0 +1,20 @@
+.square {
+    width: 2rem;
+    height: 2rem;
+    font-size: 1.5rem; 
+    border: 1px solid #ddd;
+    background-color: #ffffff; 
+    margin: 5px;
+    padding: 0;
+    text-align: center;
+    line-height: 2rem;
+    cursor: pointer;
+  }
+  
+  .x {
+    color: #FF0000;
+  }
+
+  .o {
+    color: #00FF00;
+  }
